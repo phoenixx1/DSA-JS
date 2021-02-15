@@ -6,7 +6,7 @@ function ourReusableFunction() {
 ourReusableFunction();
 
 // Only change code below this line
-function reusableFunction(){
-    console.log("Hi World");
+function reusableFunction() {
+  console.log("Hi World");
 }
 reusableFunction();

@@ -1,6 +1,6 @@
-  var myVar;
+var myVar;
 function myLocalScope() {
-  'use strict'; // you shouldn't need to edit this line
+  "use strict"; // you shouldn't need to edit this line
   var myVar;
   console.log(myVar);
 }
@@ -11,4 +11,3 @@ myLocalScope();
 console.log(myVar);
 
 // Now remove the console log line to pass the test
-

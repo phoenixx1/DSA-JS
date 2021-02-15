@@ -6,7 +6,7 @@ function minusSeven(num) {
 // Only change code below this line
 
 function timesFive(num) {
-  return num*5;
+  return num * 5;
 }
 
 console.log(timesFive(10));
