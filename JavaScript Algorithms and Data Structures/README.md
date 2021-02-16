@@ -2,7 +2,7 @@
 
 ### JavaScript Algorithms and Data Structures Certification :heavy_check_mark:
 
-- [x] [Basic JavaScript](https://github.com/phoenixx1/DSA-JS/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript)
+- [x] [Basic JavaScript](Basic%20Javascript)
 - [x] [ES6](ES6)
 - [x] [Regular Expressions](Regular%20Expressions)
 - [x] [Debugging](Debugging)
